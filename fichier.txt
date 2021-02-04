@@ -1,0 +1,8 @@
+axiome = ">Na-abb-a-a"
+regle =
+  "a=a+a*a+a+aa*aa+a+a*a+a"
+  "b=b+a*b*b
+angle =90
+taille = 5
+niveau = 3
+
